@@ -5,7 +5,15 @@
       "displayName": "Firess8",
       "tagText1": "Кеш NL50",
       "tagText2": "Практика и логика<br>решений",
-      "weightMinutes": 7
+      "weightMinutes": 1.5
+    },
+    {
+      "login": "PokerNightTV",
+      "displayName": "PokerNightTV",
+      "tagText1": "Livestream $25/$50+",
+      "tagText2": "Hellmuth's Home Game<br>Livestream $25/$50+",
+      "weightMinutes": 1.5
+      "langs": ["RU", "ENG", "ESP", "POR", "FRA", "ID", "HI"]
     }
   ]
 }
